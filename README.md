@@ -3,6 +3,9 @@
 Blockchain playground where you can see how it works.
 * **[Blockchain explained in 5 minutes in Spanish](https://www.youtube.com/watch?v=Yn8WGaO__ak)** 🇪🇸
 
+## White papers
+* **[Bitcoin White paper](https://bitcoin.org/en/bitcoin-paper)** in all languages
+
 ## Nodes
 * **[Running an ethereum node using Geth](https://dev.to/nheindev/running-your-own-ethereum-node-with-geth-2cll)**<br>
 Run your first Ethereum node using Geth and help making the blockchain safer.
@@ -15,6 +18,9 @@ Live-time map with _almost_ all reachable Bitcoin nodes.
 * **[Building a Blockchain in Go](https://dev.to/nheindev/build-the-hello-world-of-blockchain-in-go-bli)** tutorial created by [@nheingit](https://github.com/nheingit) ⭐<br>
 Learn how to build your very own blockchain using Go from scratch. Includes a amazing video in part 4 of how public/private key pairs works.
 * **[EatTheBlocks YouTube channel](https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA)**
+* **[freeCodeCamp 16-hour course for learning Solidity and Smart Contracts](https://www.freecodecamp.org/news/learn-solidity-blockchain-and-smart-contracts-in-a-free/)**
+
+
 ## Frameworks and resources
 * **[Web3 React](https://github.com/NoahZinsmeister/web3-react)**<br>
 A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps with React.
