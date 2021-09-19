@@ -1,7 +1,8 @@
 ## The basics
+* **[How does Bitcoin actually works?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)** ⭐🎥<br>
 * **[Blockchain visual demo](https://andersbrownworth.com/blockchain/)** ⭐<br>
 Blockchain playground where you can see how it works.
-* **[Blockchain explained in 5 minutes in Spanish](https://www.youtube.com/watch?v=Yn8WGaO__ak)** 🇪🇸
+* **[Blockchain explained in 5 minutes in Spanish](https://www.youtube.com/watch?v=Yn8WGaO__ak)** 🇪🇸 🎥
 
 ## White papers
 * **[Bitcoin White paper](https://bitcoin.org/en/bitcoin-paper)** in all languages
@@ -17,7 +18,7 @@ Live-time map with _almost_ all reachable Bitcoin nodes.
 ## Tutorials
 * **[Building a Blockchain in Go](https://dev.to/nheindev/build-the-hello-world-of-blockchain-in-go-bli)** tutorial created by [@nheingit](https://github.com/nheingit) ⭐<br>
 Learn how to build your very own blockchain using Go from scratch. Includes a amazing video in part 4 of how public/private key pairs works.
-* **[EatTheBlocks YouTube channel](https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA)**
+* **[EatTheBlocks YouTube channel](https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA)** 🎥
 * **[freeCodeCamp 16-hour course for learning Solidity and Smart Contracts](https://www.freecodecamp.org/news/learn-solidity-blockchain-and-smart-contracts-in-a-free/)**
 
 ## Smart Contracts
