@@ -20,6 +20,8 @@ Learn how to build your very own blockchain using Go from scratch. Includes a am
 * **[EatTheBlocks YouTube channel](https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA)**
 * **[freeCodeCamp 16-hour course for learning Solidity and Smart Contracts](https://www.freecodecamp.org/news/learn-solidity-blockchain-and-smart-contracts-in-a-free/)**
 
+## Smart Contracts
+* **[Smart Contract Weakness Classification and Test Cases](https://swcregistry.io/)**
 
 ## Frameworks and resources
 * **[Web3 React](https://github.com/NoahZinsmeister/web3-react)**<br>
