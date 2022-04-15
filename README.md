@@ -27,6 +27,7 @@ Learn how to build your very own blockchain using Go from scratch. Includes a am
 ## Frameworks and resources
 * **[Web3 React](https://github.com/NoahZinsmeister/web3-react)**<br>
 A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps with React.
+* **[Official Ethereum protocol implementation for Go](https://github.com/ethereum/go-ethereum)**<br>
 
 ## Tools
 * **[Etherscan](https://etherscan.io/)**<br> 
